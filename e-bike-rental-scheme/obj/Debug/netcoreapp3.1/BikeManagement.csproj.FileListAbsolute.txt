@@ -1,0 +1,23 @@
+/Users/yenapark/Projects/ifn564/ifn564/bin/Debug/netcoreapp3.1/BikeManagement.deps.json
+/Users/yenapark/Projects/ifn564/ifn564/bin/Debug/netcoreapp3.1/BikeManagement.runtimeconfig.json
+/Users/yenapark/Projects/ifn564/ifn564/bin/Debug/netcoreapp3.1/BikeManagement.runtimeconfig.dev.json
+/Users/yenapark/Projects/ifn564/ifn564/bin/Debug/netcoreapp3.1/BikeManagement.dll
+/Users/yenapark/Projects/ifn564/ifn564/bin/Debug/netcoreapp3.1/BikeManagement.pdb
+/Users/yenapark/Projects/ifn564/ifn564/obj/Debug/netcoreapp3.1/BikeManagement.AssemblyInfoInputs.cache
+/Users/yenapark/Projects/ifn564/ifn564/obj/Debug/netcoreapp3.1/BikeManagement.AssemblyInfo.cs
+/Users/yenapark/Projects/ifn564/ifn564/obj/Debug/netcoreapp3.1/BikeManagement.csproj.CoreCompileInputs.cache
+/Users/yenapark/Projects/ifn564/ifn564/obj/Debug/netcoreapp3.1/BikeManagement.dll
+/Users/yenapark/Projects/ifn564/ifn564/obj/Debug/netcoreapp3.1/BikeManagement.pdb
+/Users/yenapark/Projects/ifn564/ifn564/obj/Debug/netcoreapp3.1/BikeManagement.genruntimeconfig.cache
+/Users/yenapark/OneDrive - Queensland University of Technology/Documents/564/ifn564/ifn564/bin/Debug/netcoreapp3.1/BikeManagement.deps.json
+/Users/yenapark/OneDrive - Queensland University of Technology/Documents/564/ifn564/ifn564/bin/Debug/netcoreapp3.1/BikeManagement.runtimeconfig.json
+/Users/yenapark/OneDrive - Queensland University of Technology/Documents/564/ifn564/ifn564/bin/Debug/netcoreapp3.1/BikeManagement.runtimeconfig.dev.json
+/Users/yenapark/OneDrive - Queensland University of Technology/Documents/564/ifn564/ifn564/bin/Debug/netcoreapp3.1/BikeManagement.dll
+/Users/yenapark/OneDrive - Queensland University of Technology/Documents/564/ifn564/ifn564/bin/Debug/netcoreapp3.1/BikeManagement.pdb
+/Users/yenapark/OneDrive - Queensland University of Technology/Documents/564/ifn564/ifn564/obj/Debug/netcoreapp3.1/BikeManagement.csprojAssemblyReference.cache
+/Users/yenapark/OneDrive - Queensland University of Technology/Documents/564/ifn564/ifn564/obj/Debug/netcoreapp3.1/BikeManagement.AssemblyInfoInputs.cache
+/Users/yenapark/OneDrive - Queensland University of Technology/Documents/564/ifn564/ifn564/obj/Debug/netcoreapp3.1/BikeManagement.AssemblyInfo.cs
+/Users/yenapark/OneDrive - Queensland University of Technology/Documents/564/ifn564/ifn564/obj/Debug/netcoreapp3.1/BikeManagement.csproj.CoreCompileInputs.cache
+/Users/yenapark/OneDrive - Queensland University of Technology/Documents/564/ifn564/ifn564/obj/Debug/netcoreapp3.1/BikeManagement.dll
+/Users/yenapark/OneDrive - Queensland University of Technology/Documents/564/ifn564/ifn564/obj/Debug/netcoreapp3.1/BikeManagement.pdb
+/Users/yenapark/OneDrive - Queensland University of Technology/Documents/564/ifn564/ifn564/obj/Debug/netcoreapp3.1/BikeManagement.genruntimeconfig.cache
